@@ -1,5 +1,5 @@
 # Cacti Succulent
 ## An e-commerce website to buy & sell/manage cacti.
 
-https://github.com/saads2018/cactiSucculent/assets/71264405/dd613c61-f6d4-4e16-8407-f015f9055bcc
 
+![XOsX](https://github.com/saads2018/cactiSucculent/assets/71264405/86812bb1-ae24-426b-a672-5a90f7c17371)
